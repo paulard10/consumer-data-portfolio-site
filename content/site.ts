@@ -1,12 +1,11 @@
 import { repo } from "@/content/projects"
 
-// TODO: replace `name`, `email` and `linkedin` with your own details.
 export const site = {
-  name: "Your Name",
+  name: "Paula Rebollo",
   role: "Consumer Data · Media Activation",
-  email: "you@example.com",
+  email: "paula.rebollo@students.salle.url.edu",
   github: repo,
-  linkedin: "https://www.linkedin.com/in/your-profile",
+  linkedin: "https://www.linkedin.com/in/paula-rebollo",
 }
 
 export const disclaimer =
